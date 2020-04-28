@@ -8,6 +8,7 @@ fun main() {
     println("number 1 = $number1")
     number1 = 12  // var can be reassigned
     println("number 1 = $number1")
+    
     /* ---------------------------------------------------------------------- */
 
     // Read Only Variables #
